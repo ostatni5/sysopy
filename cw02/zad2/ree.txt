@@ -1,0 +1,45 @@
+---------------------------
+File name:                ..
+File path:                /mnt/c/Users/Ostatni5/Desktop/STUDIA/SysOPy/KaniaSzymon
+File type:                directory
+Link count:               1
+File size:                512 bytes
+Last status change:       Thu Mar 12 16:51:55 2020
+Last file access:         Thu Mar 12 20:27:07 2020
+Last file modification:   Thu Mar 12 16:51:55 2020
+---------------------------
+File name:                ch08-nftw.c
+File path:                /mnt/c/Users/Ostatni5/Desktop/STUDIA/SysOPy/KaniaSzymon/ch08-nftw.c
+File type:                regular file
+Link count:               1
+File size:                3053 bytes
+Last status change:       Thu Mar 12 16:51:55 2020
+Last file access:         Thu Mar 12 20:06:41 2020
+Last file modification:   Thu Mar 12 16:51:55 2020
+---------------------------
+File name:                cw01
+File path:                /mnt/c/Users/Ostatni5/Desktop/STUDIA/SysOPy/KaniaSzymon/cw01
+File type:                directory
+Link count:               1
+File size:                512 bytes
+Last status change:       Mon Mar  9 21:17:14 2020
+Last file access:         Thu Mar 12 20:26:57 2020
+Last file modification:   Mon Mar  9 21:17:14 2020
+---------------------------
+File name:                cw02
+File path:                /mnt/c/Users/Ostatni5/Desktop/STUDIA/SysOPy/KaniaSzymon/cw02
+File type:                directory
+Link count:               1
+File size:                512 bytes
+Last status change:       Wed Mar 11 14:33:36 2020
+Last file access:         Thu Mar 12 20:27:09 2020
+Last file modification:   Wed Mar 11 14:33:36 2020
+---------------------------
+File name:                TEST
+File path:                /mnt/c/Users/Ostatni5/Desktop/STUDIA/SysOPy/KaniaSzymon/TEST
+File type:                directory
+Link count:               1
+File size:                512 bytes
+Last status change:       Thu Mar 12 16:51:51 2020
+Last file access:         Thu Mar 12 20:26:57 2020
+Last file modification:   Thu Mar 12 16:51:51 2020

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw03/zad2/validate.c
+string.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+errno.h
+-
+unistd.h
+-
+fcntl.h
+-
+bits/fcntl-linux.h
+-
+printf.h
+-
+wait.h
+-
+time.h
+-
+sys/file.h
+-
+

@@ -1,0 +1,4 @@
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad4b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad4b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad4b/cmake-build-debug/CMakeFiles/sender.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad4b/cmake-build-debug/CMakeFiles/catcher.dir

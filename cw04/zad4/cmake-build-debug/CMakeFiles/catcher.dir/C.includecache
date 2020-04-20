@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad4/catcher.c
+stdio.h
+-
+unistd.h
+-
+bits/types/siginfo_t.h
+-
+signal.h
+-
+

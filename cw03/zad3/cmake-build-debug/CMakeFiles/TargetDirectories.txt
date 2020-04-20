@@ -1,0 +1,4 @@
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw03/zad3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw03/zad3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw03/zad3/cmake-build-debug/CMakeFiles/generate.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw03/zad3/cmake-build-debug/CMakeFiles/macierz.dir

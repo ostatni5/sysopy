@@ -1,0 +1,4 @@
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad2/cmake-build-debug/CMakeFiles/main.dir
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad2/cmake-build-debug/CMakeFiles/child.dir

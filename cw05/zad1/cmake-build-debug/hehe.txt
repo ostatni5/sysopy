@@ -1,0 +1,10 @@
+CMakeCache.txt
+CMakeFiles
+FILENAME
+Makefile
+chain
+cmake_install.cmake
+commands
+hehe.txt
+main
+zad1.cbp

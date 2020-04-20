@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw03/zad3/macierz.c
+string.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+errno.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/resource.h
+-
+bits/fcntl-linux.h
+-
+printf.h
+-
+wait.h
+-
+time.h
+-
+sys/file.h
+-
+

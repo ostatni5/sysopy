@@ -1,0 +1,6 @@
+./chain a 1 1 | ./chain 3 3 3 | ./chain 4 4 4 | ./chain 5 5 5 | tee aa.txt
+./chain a 3a 1 | ./chain 3b 3 3b | ./chain 4c4c4 s  | ./chain 5a5a5 | ./chain | ./chain | ./chain 77777
+./chain a 3a 1 | ./chain 222 3 444b | ./chain 78 89 | ./chain 66 66 6
+ls  | ./chain sysy | ./chain sysy2
+ls | tee hehe.txt
+echo a | xargs echo b | tee huu.txt

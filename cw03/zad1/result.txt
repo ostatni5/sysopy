@@ -1,0 +1,138 @@
+total 52
+-rwxrwxrwx 1 ostatni5 ostatni5   109 Mar 18 17:33 CMakeLists.txt
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 cmake-build-debug
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:54 cmake-build-wsl
+-rwxrwxrwx 1 ostatni5 ostatni5 17336 Mar 18 18:13 find
+-rwxrwxrwx 1 ostatni5 ostatni5  2175 Mar 18 18:13 find.c
+-rwxrwxrwx 1 ostatni5 ostatni5   189 Mar 18 18:11 makefile
+-rwxrwxrwx 1 ostatni5 ostatni5     0 Mar 18 18:13 result.txt
+-rwxrwxrwx 1 ostatni5 ostatni5 13794 Mar 18 18:13 result2.txt
+---------------------------
+PID:       2999
+Relaiive path:                .
+total 44
+-rwxrwxrwx 1 ostatni5 ostatni5 21794 Mar 18 17:53 CMakeCache.txt
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 CMakeFiles
+-rwxrwxrwx 1 ostatni5 ostatni5  4816 Mar 18 17:53 Makefile
+-rwxrwxrwx 1 ostatni5 ostatni5  1553 Mar 18 17:53 cmake_install.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5  5477 Mar 18 17:53 cw03.cbp
+---------------------------
+PID:       3002
+Relaiive path:                ./cmake-build-debug
+total 47
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 3.10.2
+-rwxrwxrwx 1 ostatni5 ostatni5   678 Mar 18 17:53 CMakeDirectoryInformation.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 16490 Mar 18 17:53 CMakeOutput.log
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 CMakeTmp
+-rwxrwxrwx 1 ostatni5 ostatni5  5421 Mar 18 17:53 Makefile.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5  3198 Mar 18 17:53 Makefile2
+-rwxrwxrwx 1 ostatni5 ostatni5   258 Mar 18 17:53 TargetDirectories.txt
+-rwxrwxrwx 1 ostatni5 ostatni5   120 Mar 18 17:53 clion-environment.txt
+-rwxrwxrwx 1 ostatni5 ostatni5   542 Mar 18 17:53 clion-log.txt
+-rwxrwxrwx 1 ostatni5 ostatni5    85 Mar 18 17:53 cmake.check_cache
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 cw03.dir
+-rwxrwxrwx 1 ostatni5 ostatni5  8208 Mar 18 17:53 feature_tests.bin
+-rwxrwxrwx 1 ostatni5 ostatni5   688 Mar 18 17:53 feature_tests.c
+-rwxrwxrwx 1 ostatni5 ostatni5     2 Mar 18 17:53 progress.marks
+---------------------------
+PID:       3005
+Relaiive path:                ./cmake-build-debug/CMakeFiles
+total 16
+-rwxrwxrwx 1 ostatni5 ostatni5 2219 Mar 18 17:53 CMakeCCompiler.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 8248 Mar 18 17:53 CMakeDetermineCompilerABI_C.bin
+-rwxrwxrwx 1 ostatni5 ostatni5  418 Mar 18 17:53 CMakeSystem.cmake
+drwxrwxrwx 1 ostatni5 ostatni5  512 Mar 18 17:53 CompilerIdC
+---------------------------
+PID:       3008
+Relaiive path:                ./cmake-build-debug/CMakeFiles/3.10.2
+total 36
+-rwxrwxrwx 1 ostatni5 ostatni5 18076 Mar 18 17:53 CMakeCCompilerId.c
+-rwxrwxrwx 1 ostatni5 ostatni5  8408 Mar 18 17:53 a.out
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 tmp
+---------------------------
+PID:       3011
+Relaiive path:                ./cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC
+total 0
+---------------------------
+PID:       3014
+Relaiive path:                ./cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/tmp
+total 0
+---------------------------
+PID:       3017
+Relaiive path:                ./cmake-build-debug/CMakeFiles/CMakeTmp
+total 9
+-rwxrwxrwx 1 ostatni5 ostatni5  599 Mar 18 17:53 DependInfo.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 4374 Mar 18 17:53 build.make
+-rwxrwxrwx 1 ostatni5 ostatni5  226 Mar 18 17:53 cmake_clean.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5   88 Mar 18 17:53 depend.make
+-rwxrwxrwx 1 ostatni5 ostatni5  185 Mar 18 17:53 flags.make
+-rwxrwxrwx 1 ostatni5 ostatni5   56 Mar 18 17:53 link.txt
+-rwxrwxrwx 1 ostatni5 ostatni5   43 Mar 18 17:53 progress.make
+---------------------------
+PID:       3020
+Relaiive path:                ./cmake-build-debug/CMakeFiles/cw03.dir
+total 68
+-rwxrwxrwx 1 ostatni5 ostatni5 21790 Mar 18 17:53 CMakeCache.txt
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:54 CMakeFiles
+-rwxrwxrwx 1 ostatni5 ostatni5  4808 Mar 18 17:53 Makefile
+-rwxrwxrwx 1 ostatni5 ostatni5  1553 Mar 18 17:53 cmake_install.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 12904 Mar 18 17:54 cw03
+-rwxrwxrwx 1 ostatni5 ostatni5  5423 Mar 18 17:53 cw03.cbp
+---------------------------
+PID:       3023
+Relaiive path:                ./cmake-build-wsl
+total 47
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 3.10.2
+-rwxrwxrwx 1 ostatni5 ostatni5   676 Mar 18 17:53 CMakeDirectoryInformation.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 16446 Mar 18 17:53 CMakeOutput.log
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 CMakeTmp
+-rwxrwxrwx 1 ostatni5 ostatni5  5421 Mar 18 17:53 Makefile.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5  3190 Mar 18 17:53 Makefile2
+-rwxrwxrwx 1 ostatni5 ostatni5   252 Mar 18 17:53 TargetDirectories.txt
+-rwxrwxrwx 1 ostatni5 ostatni5   120 Mar 18 17:53 clion-environment.txt
+-rwxrwxrwx 1 ostatni5 ostatni5   542 Mar 18 17:53 clion-log.txt
+-rwxrwxrwx 1 ostatni5 ostatni5    85 Mar 18 17:53 cmake.check_cache
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:54 cw03.dir
+-rwxrwxrwx 1 ostatni5 ostatni5  8208 Mar 18 17:53 feature_tests.bin
+-rwxrwxrwx 1 ostatni5 ostatni5   688 Mar 18 17:53 feature_tests.c
+-rwxrwxrwx 1 ostatni5 ostatni5     2 Mar 18 17:53 progress.marks
+---------------------------
+PID:       3026
+Relaiive path:                ./cmake-build-wsl/CMakeFiles
+total 16
+-rwxrwxrwx 1 ostatni5 ostatni5 2219 Mar 18 17:53 CMakeCCompiler.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 8248 Mar 18 17:53 CMakeDetermineCompilerABI_C.bin
+-rwxrwxrwx 1 ostatni5 ostatni5  418 Mar 18 17:53 CMakeSystem.cmake
+drwxrwxrwx 1 ostatni5 ostatni5  512 Mar 18 17:53 CompilerIdC
+---------------------------
+PID:       3029
+Relaiive path:                ./cmake-build-wsl/CMakeFiles/3.10.2
+total 36
+-rwxrwxrwx 1 ostatni5 ostatni5 18076 Mar 18 17:53 CMakeCCompilerId.c
+-rwxrwxrwx 1 ostatni5 ostatni5  8408 Mar 18 17:53 a.out
+drwxrwxrwx 1 ostatni5 ostatni5   512 Mar 18 17:53 tmp
+---------------------------
+PID:       3032
+Relaiive path:                ./cmake-build-wsl/CMakeFiles/3.10.2/CompilerIdC
+total 0
+---------------------------
+PID:       3035
+Relaiive path:                ./cmake-build-wsl/CMakeFiles/3.10.2/CompilerIdC/tmp
+total 0
+---------------------------
+PID:       3038
+Relaiive path:                ./cmake-build-wsl/CMakeFiles/CMakeTmp
+total 13
+-rwxrwxrwx 1 ostatni5 ostatni5  308 Mar 18 17:54 C.includecache
+-rwxrwxrwx 1 ostatni5 ostatni5  597 Mar 18 17:53 DependInfo.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5 4360 Mar 18 17:53 build.make
+-rwxrwxrwx 1 ostatni5 ostatni5  226 Mar 18 17:53 cmake_clean.cmake
+-rwxrwxrwx 1 ostatni5 ostatni5  180 Mar 18 17:54 depend.internal
+-rwxrwxrwx 1 ostatni5 ostatni5  141 Mar 18 17:54 depend.make
+-rwxrwxrwx 1 ostatni5 ostatni5 4008 Mar 18 17:54 find.c.o
+-rwxrwxrwx 1 ostatni5 ostatni5  195 Mar 18 17:53 flags.make
+-rwxrwxrwx 1 ostatni5 ostatni5   66 Mar 18 17:53 link.txt
+-rwxrwxrwx 1 ostatni5 ostatni5   43 Mar 18 17:53 progress.make
+---------------------------
+PID:       3041
+Relaiive path:                ./cmake-build-wsl/CMakeFiles/cw03.dir

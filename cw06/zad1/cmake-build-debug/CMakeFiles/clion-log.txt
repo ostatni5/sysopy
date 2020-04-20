@@ -1,0 +1,4 @@
+CMake executable not found: \\wsl$\Ubuntu\usr\bin\cmake Configure
+
+Cannot get compiler information:
+	Connection refused: connect

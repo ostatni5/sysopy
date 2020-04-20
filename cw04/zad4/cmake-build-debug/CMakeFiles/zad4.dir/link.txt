@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/zad4.dir/main.c.o  -o zad4 

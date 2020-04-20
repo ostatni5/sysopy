@@ -1,0 +1,9 @@
+---------------------------
+File name:                temp.txt
+File path:                /mnt/c/Users/Ostatni5/Desktop/STUDIA/SysOPy/KaniaSzymon/cw01/zad3/temp.txt
+File type:                regular file
+Link count:               1
+File size:                0 bytes
+Last status change:       Tue Mar 10 19:00:21 2020
+Last file access:         Tue Mar 10 19:00:21 2020
+Last file modification:   Tue Mar 10 19:00:21 2020

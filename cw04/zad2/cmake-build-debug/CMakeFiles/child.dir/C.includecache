@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/h/STUDIA/SysOPy/KaniaSzymon/cw04/zad2/child.c
+stdio.h
+-
+signal.h
+-
+bits/signum.h
+-
+unistd.h
+-
+stdlib.h
+-
+stdbool.h
+-
+wait.h
+-
+

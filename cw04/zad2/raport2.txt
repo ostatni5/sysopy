@@ -1,0 +1,25 @@
+WNIOESKI:
+proces  ignorowanie     handler     maska
+exec    maska   oczekiwanie
+---------
+POTOMEK HERE
+child
+
+SIGUSR1 DEFAULT EXEC
+---------
+
+SIGUSR1 PID:1159
+POTOMEK HERE
+
+SIGUSR1 PID:1160
+
+EXEC HERE
+---------
+POTOMEK HERE
+child
+---------
+SIGUSR1: oczekuje
+POTOMEK HERE
+SIGUSR1: nie oczekuje
+child
+SIGUSR1: oczekuje

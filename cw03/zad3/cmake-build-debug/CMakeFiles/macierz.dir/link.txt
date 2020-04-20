@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/macierz.dir/macierz.c.o  -o macierz 
